@@ -1,1 +1,1 @@
-AUTH_KEY = "put_your_authorization_key_here"
+AUTH_KEY = "NzJkNDUyNjQtZjlhMC00MTgzLTk0YzEtYmY4MTIwYzdkYjdiOmVkMjNiYWI3LTk4NDItNGNjZS05NWQ0LTQyYTZmYzRiNzA2Mw=="
