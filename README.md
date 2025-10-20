@@ -9,7 +9,10 @@ Prerequisites (pip install)
 - langchain-text-splitters 0.3.11
 - langsmith                0.4.31
 - pydantic                 2.11.9
-- pydantic_core            2.33.2
-</br>...and other if required:)</br>
+- pydantic_core            2.33.2</br>
+...and other if required:)</br>
 
-Do not forget to add your GigaChat Authorization key in auth_key.py file!
+Do not forget to create auth_key.py text file and change YOUR_GIGACHAT_AUTHORIZATION_KEY to your actual GigaChat Authorization key:
+
+```AUTH_KEY = "YOUR_GIGACHAT_AUTHORIZATION_KEY"```
+
