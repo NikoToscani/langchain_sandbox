@@ -12,7 +12,8 @@ Prerequisites (pip install)
 - pydantic_core            2.33.2</br>
 ...and other if required:)</br>
 
-Do not forget to create auth_key.py text file and change YOUR_GIGACHAT_AUTHORIZATION_KEY to your actual GigaChat Authorization key:
+Do not forget to create auth_key.py text file, add following line:
 
 ```AUTH_KEY = "YOUR_GIGACHAT_AUTHORIZATION_KEY"```
 
+ and change YOUR_GIGACHAT_AUTHORIZATION_KEY to your actual GigaChat Authorization key
